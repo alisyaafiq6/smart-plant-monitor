@@ -8,7 +8,14 @@
 
 ## 📸 Demo
 
-> *(Tambahkan foto/video sistem di sini / Add photos or videos of the system here)*
+![Prototype](images/prototype.jpeg)
+![Turn On](images/turn_on.jpeg)
+![Dashboard](images/digital_display.jpeg)
+![Inside Components](images/components.jpeg)
+![NodeMCU](images/nodemcu.jpeg)
+![LCD & Soil Moisture](images/lcd_i2c___soil_muisture.jpeg)
+![Relay Module](images/relay.jpeg)
+![Multitester](images/multitester.jpeg)
 
 ---
 
