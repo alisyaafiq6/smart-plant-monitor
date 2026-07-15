@@ -234,7 +234,8 @@ Any future updates will be rebuilt from scratch as a new project.
 
 ## 👤 Author
 
-> *(Tambahkan nama dan info kontakmu di sini / Add your name and contact info here)*
+**Ali Syaafiq**
+🌐 [alisyaafiq6.github.io](https://alisyaafiq6.github.io/)
 
 ---
 
