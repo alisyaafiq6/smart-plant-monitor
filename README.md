@@ -8,14 +8,7 @@
 
 ## 📸 Demo
 
-![Prototype](images/prototype.jpeg)
-![Turn On](images/turn_on.jpeg)
-![Dashboard](images/digital_display.jpeg)
-![Inside Components](images/components.jpeg)
-![NodeMCU](images/nodemcu.jpeg)
-![LCD & Soil Moisture](images/lcd_i2c___soil_muisture.jpeg)
-![Relay Module](images/relay.jpeg)
-![Multitester](images/multitester.jpeg)
+Lihat foto-foto komponen, prototype, dan tampilan sistem di folder **[images/](images/)**
 
 ---
 
