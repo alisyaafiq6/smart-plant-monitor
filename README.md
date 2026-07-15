@@ -10,6 +10,8 @@
 
 Lihat foto-foto komponen, prototype, dan tampilan sistem di folder **[images/](images/)**
 
+View photos of components, prototype, and system display in the **[images/](images/)** folder.
+
 ---
 
 ## 🇮🇩 Deskripsi
